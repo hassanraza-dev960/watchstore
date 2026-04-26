@@ -73,6 +73,7 @@
   overflow-y: auto;
   margin-bottom: 2rem;
   padding-right: 0.5rem;
+  padding-top: 10px;
 }
 
 .summary-items::-webkit-scrollbar {
@@ -146,6 +147,7 @@
   
   .order-summary {
     width: 100%;
+    position: static;
   }
 }
 
