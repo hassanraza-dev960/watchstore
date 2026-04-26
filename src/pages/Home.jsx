@@ -15,6 +15,17 @@ const Home = () => {
     <div className="home">
       {/* Hero Section */}
       <section className="hero">
+        <video 
+          className="hero-video"
+          autoPlay 
+          loop 
+          muted 
+          playsInline
+        >
+          <source src="https://videos.pexels.com/video-files/17197593/17197593-hd_1920_1080_30fps.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+        <div className="hero-overlay"></div>
         <div className="hero-content animate-fade-in">
           <h1 className="hero-title">Timeless Elegance</h1>
           <p className="hero-subtitle">
