@@ -10,7 +10,7 @@ const About = () => {
       <h1 className="page-title" style={{ fontSize: '3rem', marginBottom: '2rem', color: 'var(--accent-gold)', textAlign: 'center', fontFamily: 'var(--font-serif)' }}>Our Story</h1>
       
       <img 
-        src="https://images.unsplash.com/photo-1508057198894-247b23fe5278?q=80&w=2070&auto=format&fit=crop" 
+        src="https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?q=80&w=2070&auto=format&fit=crop" 
         alt="Watchmaking" 
         style={{ width: '100%', borderRadius: '8px', marginBottom: '3rem' }} 
       />
