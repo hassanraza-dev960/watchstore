@@ -17,7 +17,7 @@ export const products = [
     brand: 'Omega',
     price: 3200,
     description: 'Built for the depths, this dive watch boasts 300m water resistance, a luminescent dial, and a robust stainless steel bracelet.',
-    image: 'https://images.unsplash.com/photo-1548169874-53ce86f44922?q=80&w=2080&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?q=80&w=2080&auto=format&fit=crop',
     category: 'Sports',
     rating: 4.9,
     reviews: 89,
